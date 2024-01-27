@@ -1,2 +1,3 @@
-# E-Examination-Portal
-I am develop a project on Minor Project is E- Examination Portal  by the using of JFrame and MySQL Database
+# E-Examination-System
+This E-Examination system will be beneficial for schools, institutes and every organisation that conducts evaluation processes to test an individual's knowledge and skills.
+
